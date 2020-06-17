@@ -1,7 +1,4 @@
-$text-position: center;
-
 .bio {
-
     text-align: center;
     h1 {
         font-size: 30px;
@@ -11,4 +8,10 @@ $text-position: center;
         display: inline;
         padding: 10px;
     }
+}
+
+.navlink {
+    height: 100px;
+    justify-content: space-between;
+    padding: 15px;
 }
